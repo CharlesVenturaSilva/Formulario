@@ -1,0 +1,41 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1
+{
+    text-align: center;
+}
+.caixa
+{
+    width: 35%;
+    margin: 0 auto;
+    padding-left: 1rem;
+    
+}
+#enviar, #resetar
+{
+    font-size: 1.25rem;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    
+}
+#botoes
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 1rem;
+}
+#age
+{
+    margin-left: 4px;
+}
+.label
+{
+    margin-left: 1rem;
+}
